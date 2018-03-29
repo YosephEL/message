@@ -9,6 +9,8 @@
   <component name="PhpIncludePathManager">
     <include_path>
       <path value="C:\wamp64\bin\php\php7.1.9\lib" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
